@@ -21,7 +21,6 @@ Welcome to my GitHub profile! I'm a 5th semester computer science student with a
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hx88xn&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/muhammad-hassan-75b1b3252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-
+- [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B4%2BDWTWGRRWy3Ma4N2D7N%2FQ%3D%3D)
 ## Gonna add a quote to look cool 😎
 > "The only way to do great work is to love what you do." - Steve Jobs
