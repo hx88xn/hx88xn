@@ -1,6 +1,6 @@
 # Hi there, I'm Hassan 👋
 
-Welcome to my GitHub profile! I'm a 5th semester computer science student with a great interest in deep learning, generative AI, and backend. Here's a little bit about me:
+Welcome to my GitHub profile! I'm a 7th semester computer science student with a great interest in deep learning, generative AI, and backend. Here's a little bit about me:
 
 ## 🚀 About Me
 - 🌱 I’m currently learning and exploring new technologies and frameworks.
