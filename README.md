@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a 7th semester computer science student with a
 - 🌱 I’m currently learning and exploring new technologies and frameworks.
 - 👯 I’m looking to collaborate on open-source projects and innovative ideas.
 - 💬 Ask me about anything related to deep learning, generative AI, backend development, web development, data structures, and algorithms.
-- 📫 How to reach me: [mesuthassan850@gmail.com](mailto:nxmtxb@gmail.com)
+- 📫 How to reach me: [nxmtxb@gmail.com](mailto:nxmtxb@gmail.com)
 - ⚡ Fun fact: I love solving puzzles and challenges in my free time.
 
 ## 🛠️ Technologies & Tools
