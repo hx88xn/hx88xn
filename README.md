@@ -1,6 +1,6 @@
 # Hi there, I'm Hassan 👋  
 
-Welcome to my GitHub profile! I'm a 7th semester computer science student with strong experience in **deep learning, generative AI, and backend development**.  
+Welcome to my GitHub profile! I'm a 7th semester computer science student with strong experience in **deep learning, Agentic AI, and backend development**.  
 
 ## 🚀 About Me  
 - 🌱 Experienced in building AI-powered applications and scalable backends, while continuously learning and refining my skills.  
