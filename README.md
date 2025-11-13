@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm a 7th semester computer science student with s
 
 ##  Technologies & Tools  
 - **Languages:** Python, C++/C#, JavaScript  
-- **Frameworks & Libraries:** .NET, Node.js, FastAPI, PyTorch, LangGraph  
-- **Databases & Tools:** SQL, PostgreSQL, MongoDB, Google Sheets, Redis  
+- **Frameworks & Libraries:** .NET, Node.js, FastAPI, PyTorch, LangGraph ... 
+- **Databases & Tools:** SQL, PostgreSQL, MongoDB, Redis, Docker(I try to containerize every repo, even if there is no need to do it lmao), Chrome Extensions
 
 ##  Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hx88xn&layout=compact&theme=radical)  
