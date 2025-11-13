@@ -17,9 +17,6 @@ Welcome to my GitHub profile! I'm a 7th semester computer science student with s
 ##  Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hx88xn&layout=compact&theme=radical)  
 
-## 🔥 Streak Stats  
-[![GitHub Streak](https://streak-stats.demolab.com?user=hx88xn&theme=radical&hide_border=false)](https://git.io/streak-stats)  
-
 ## 📊 Contributions Graph  
 [![Hassan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hx88xn&theme=radical)](https://github.com/Ashutosh00710/github-readme-activity-graph)  
 
