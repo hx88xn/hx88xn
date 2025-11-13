@@ -14,11 +14,6 @@ Welcome to my GitHub profile! I'm a 7th semester computer science student with s
 - **Frameworks & Libraries:** .NET, Node.js, FastAPI, PyTorch, LangGraph  
 - **Databases & Tools:** SQL, PostgreSQL, MongoDB, Google Sheets, Redis  
 
-## 📂 Current Projects  
-- 📘 **BookSynth** – AI-powered system that transforms large documents into **summaries, quizzes, voice-overs, and lectures**.  
-- 💬 **WhatsApp Chatbot** – Conversational assistant built with **FastAPI + LangGraph + Redis + Google Sheets**, capable of scheduling, answering queries, and automation.  
-- 🦷 **Odentika** – AI-driven dental SaaS platform for **patient management and appointment automation**.  
-
 ## 📈 GitHub Stats  
 ![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hx88xn&show_icons=true&theme=radical)  
 
