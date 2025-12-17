@@ -14,8 +14,6 @@ Welcome to my GitHub profile! I'm a 7th semester computer science student with s
 - **Frameworks & Libraries:** .NET, Node.js, FastAPI, PyTorch, LangGraph ... 
 - **Databases & Tools:** SQL, PostgreSQL, MongoDB, Redis, Docker(I try to containerize every repo, even if there is no need to do it lmao), Github Actions, Jenkins, Chrome Extensions
 
-##  Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hx88xn&layout=compact&theme=radical)  
 
 ## 📊 Contributions Graph  
 [![Hassan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hx88xn&theme=radical)](https://github.com/Ashutosh00710/github-readme-activity-graph)  
