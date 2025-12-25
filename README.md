@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a 7th semester computer science student with s
 
 
 ## 📊 Contributions Graph  
-[![Hassan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hx88xn&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Hassan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hx88xn&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ## 📫 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/muhammad-hassan-75b1b3252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
