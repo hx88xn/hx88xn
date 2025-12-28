@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a 7th semester computer science student with s
 - Experienced in building AI-powered applications and scalable backends, while continuously learning and refining my skills.  
 - Open to collaborating on **open-source projects** and **innovative AI-driven ideas**.  
 - Ask me about anything related to **deep learning, generative AI, backend development, web development, data structures, and algorithms**.  
-- How to reach me: [nxmtxb@gmail.com](mailto:hx88xn@gmail.com)  
+- How to reach me: [hx88xn@gmail.com](mailto:hx88xn@gmail.com)  
 - Fun fact: I love solving puzzles and challenges in my free time.  
 
 ##  Technologies & Tools  
